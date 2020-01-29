@@ -1,0 +1,15 @@
+gerber/
+dxf/
+model/
+img/
+shapes3D/
+
+
+*.step
+*.wrl
+*.sch-bak
+*.kicad_pcb-bak
+*.bak
+*_RenumBack
+
+panel/text/
